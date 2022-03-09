@@ -1,7 +1,7 @@
 Olá, Me chamo Lívia Stephany👋
 
 - 🔭 Estudante de Programação
-- 🌱 Estou aprendendo JavaScript, HTML e CSS
+- 🌱 Estou aprendendo JavaScript, HTML5 e CSS
 
 <div align="center">
   <a href="https://github.com/liviastephany">
